@@ -1,0 +1,1 @@
+New-AzTemplateSpec -Name resourceGroupSpec -Version .02 -ResourceGroupName RG-SHARED-TOOLS-TEMPLATES-001 -Location eastus2 -TemplateFile '$(System.DefaultWorkingDirectory)/_Blueprints/TEMP-SPEC2/key-vault.json'

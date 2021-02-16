@@ -1,0 +1,2 @@
+New-AzRoleAssignment -ObjectId 7d7581f1-4960-4553-a522-bbd24d83ea3a -RoleDefinitionId 8e3af657-a8ff-443c-a75c-2fe8c4bcb635 -Scope /subscriptions/08c17a78-6aec-4140-986c-2115c64fa6c2/resourceGroups/RG-QAS-NETWORKING/providers/Microsoft.Network/virtualNetworks/VNET-QAS-NETWORKING-001
+New-AzRoleAssignment -ObjectId 7d7581f1-4960-4553-a522-bbd24d83ea3a -RoleDefinitionId 8e3af657-a8ff-443c-a75c-2fe8c4bcb635 -Scope /subscriptions/4d32fa0e-573d-4014-b42a-78de19109717/resourceGroups/RG-DEV-NETWORKING-001/providers/Microsoft.Network/virtualNetworks/vnet-dev-eastus2-001
